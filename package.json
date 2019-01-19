@@ -1,8 +1,8 @@
 {
-  "name": "quill",
+  "name": "quill2-dev",
   "version": "2.0.0-dev.3",
   "description": "Your powerful, rich text editor",
-  "author": "Jason Chen <jhchen7@gmail.com>",
+  "author": "Ashutosh Sah <iamashutoshks@gmail.com>",
   "homepage": "http://quilljs.com",
   "main": "dist/quill.js",
   "files": [
@@ -79,7 +79,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quilljs/quill"
+    "url": "https://github.com/iamashutoshks/quilljs2-dev"
   },
   "bugs": {
     "url": "https://github.com/quilljs/quill/issues"
