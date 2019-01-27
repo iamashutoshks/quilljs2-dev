@@ -18,7 +18,7 @@ class CodeBlockContainer extends Container {
       .map(child => child.domNode.innerText)
       .join('\n')
       .slice(index, index + length);
-    return `<pre>${escapeText(text)}</pre>`;
+    return `<pre><code class="as-code-block">${escapeText(text)}</code></pre>`;
   }
 }
 
